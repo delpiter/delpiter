@@ -10,7 +10,10 @@ I've had a couple of jobs as a software developer
 ## 🔧 Technologies & Tools
 
 <img src="./Metrics/languages.svg" width="100%">
-
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=bash,git,python,c,java,cs,dotnet,ts,js,html,css,vscode,obsidian,bootstrap" />
+</div>
 
 # 📚 Projects
 Here are some of the projects I’ve worked on:
