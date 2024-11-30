@@ -8,6 +8,7 @@ I've had a couple of jobs as a software developer
 
 <img src="./Metrics/user.svg">
 <img src="./Metrics/followers.svg">
+
 ## 🔧 Technologies & Tools
 
 <img src="./Metrics/languages.svg" width="100%">
