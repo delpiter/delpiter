@@ -27,6 +27,21 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: 'recently-used'
           plugin_languagees_details: 'percentage, lines'
+      - name: 'user'
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Metrics/user.svg
+          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+      - name: 'Followers'
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Metrics/followers.svg
+          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers
       # - name: 'Contributions'
       #   uses: lowlighter/metrics@latest
       #   with:
