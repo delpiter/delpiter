@@ -14,7 +14,7 @@ I've had a couple of jobs as a software developer
 <img src="./Metrics/languages.svg" width="100%">
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=bash,git,python,c,java,cs,dotnet,ts,js,html,css,vscode,obsidian,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vscode,c,java,bash,git,python,cs,dotnet,ts,js,html,css,bootstrap,obsidian" />
 </div>
 
 # 📚 Projects
