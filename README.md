@@ -6,8 +6,8 @@ I'm a ***Computer Science*** and ***Engineering*** student at the [University of
 🌱 I’m currently studying Computer Science and Engineering at the University of Bologna.
 I've had a couple of jobs as a software developer
 
-<img src="./Metrics/user.svg" width="100%">
-<img src="./Metrics/followers.svg" width="100%">
+<img src="./Metrics/user.svg">
+<img src="./Metrics/followers.svg">
 ## 🔧 Technologies & Tools
 
 <img src="./Metrics/languages.svg" width="100%">
