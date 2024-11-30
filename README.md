@@ -1,5 +1,4 @@
 ## Hi! 👋
----
 
 I'm a ***Computer Science*** and ***Engineering*** student at the [University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche). On this GitHub profile, you'll find a collection of projects that I've worked on during my studies.
 
