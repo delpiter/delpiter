@@ -27,12 +27,12 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: 'recently-used'
           plugin_languagees_details: 'percentage, lines'
-      - name: 'Contributions'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Metrics/contributions.svg
-          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
-          base: ''
-          config_timezone: Europe/Rome
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
+      # - name: 'Contributions'
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: Metrics/contributions.svg
+      #     token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+      #     base: ''
+      #     config_timezone: Europe/Rome
+      #     plugin_contributors: yes
+      #     plugin_contributors_contributions: yes
