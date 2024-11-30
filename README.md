@@ -9,7 +9,7 @@ I've had a couple of jobs as a software developer
 
 ## 🔧 Technologies & Tools
 
-<img src="./Metrics/languages.svg">
+<img src="./Metrics/languages.svg" width="100%">
 
 
 📚 Projects
