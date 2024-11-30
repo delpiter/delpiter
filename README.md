@@ -5,7 +5,8 @@ I'm a ***Computer Science*** and ***Engineering*** student at the [University of
 ## 🚀 About Me
 🌱 I’m currently studying Computer Science and Engineering at the University of Bologna.
 I've had a couple of jobs as a software developer 
-
+<img src="./Metrics/user.svg" width="100%>
+<img src="./Metrics/followers.svg" width="100%>
 ## 🔧 Technologies & Tools
 
 <img src="./Metrics/languages.svg" width="100%">
@@ -28,8 +29,6 @@ A little game made for the [MMA-2023](https://www.dm.unibo.it/pls/metodi-matemat
 A project made in collaboration with [Arakne Srl](https://www.arakne.it/en/home) consisting in the developement of an application to reassemble fragments of ancient frescoes
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/AutoErcole)
-
----
 
 
 ## 📫 Let's Connect!
