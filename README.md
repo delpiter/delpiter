@@ -12,20 +12,20 @@ I've had a couple of jobs as a software developer
 <img src="./Metrics/languages.svg" width="100%">
 
 
-📚 Projects
+# 📚 Projects
 Here are some of the projects I’ve worked on:
 
 ### Con Nome
 A little game made for the [MMA-2023](https://www.dm.unibo.it/pls/metodi-matematici-per-l-animazione-2023/).
 - 🥉 3rd Place
 
-[Project Repository](https://github.com/wisetreeam/MMA-2023)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/MMA-2023)
 
 ---
 ### Auto Ercole
 A project made in collaboration with [Arakne Srl](https://www.arakne.it/en/home) consisting in the developement of an application to reassemble fragments of ancient frescoes
 
-[Project Repository](https://github.com/wisetreeam/AutoErcole)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/AutoErcole)
 
 ---
 
