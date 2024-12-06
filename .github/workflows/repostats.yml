@@ -27,7 +27,11 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: >-
             powershell
-          plugin_languages_details: percentage, lines
+          plugin_languages_indepth_custom:
+            delpiter/exercise12-foschi-gioele,
+            delpiter/oop-lab-exercises@lab11,
+            delpiter/oop-lab-exercises@lab10
+          plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_limit: 8
       - name: 'user'
         uses: lowlighter/metrics@latest
@@ -44,12 +48,3 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-      # - name: 'Contributions'
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: Metrics/contributions.svg
-      #     token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
-      #     base: ''
-      #     config_timezone: Europe/Rome
-      #     plugin_contributors: yes
-      #     plugin_contributors_contributions: yes
