@@ -9,7 +9,7 @@ I've had a couple of jobs as a software developer
 <img src="./Metrics/user.svg">
 <img src="./Metrics/followers.svg">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=delpiter&theme=juicyfresh&rank=-c-?&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=delpiter&theme=juicyfresh&rank=-C,-?&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Technologies & Tools
 <div align="center">
