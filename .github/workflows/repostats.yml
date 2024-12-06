@@ -26,7 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_sections: 'recently-used'
-          plugin_languagees_details: 'percentage, lines'
+          plugin_languages_details: 'percentage, lines'
       - name: 'user'
         uses: lowlighter/metrics@latest
         with:
