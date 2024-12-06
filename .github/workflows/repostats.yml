@@ -28,6 +28,7 @@ jobs:
           plugin_languages_ignored: >-
             powershell
           plugin_languages_details: percentage, lines
+          plugin_languages_limit: 8
       - name: 'user'
         uses: lowlighter/metrics@latest
         with:
