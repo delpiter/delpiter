@@ -9,11 +9,13 @@ I've had a couple of jobs as a software developer
 <img src="./Metrics/user.svg">
 <img src="./Metrics/followers.svg">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=delpiter&theme=juicyfresh&rank=B,A,S)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=delpiter&theme=juicyfresh&rank=-c-?&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Technologies & Tools
+<div align="center">
+  <img src="./Metrics/languages.svg" width="70%">
+</div>
 
-<img src="./Metrics/languages.svg" width="100%">
 <div align="center">
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,c,java,bash,git,python,cs,dotnet,ts,js,html,css,bootstrap,obsidian" />
