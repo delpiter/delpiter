@@ -36,6 +36,18 @@ A project made in collaboration with [Arakne Srl](https://www.arakne.it/en/home)
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/ProgettoErcole)
 
+---
+### Architect of Mayhem
+A game developed for the OOP exam. 🕹️
+- Developed as part of the Object-Oriented Programming course.
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/4realgames/OOP24-arcaym)
+
+> Made in collaboration with:
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Nicholas-Magi)](https://github.com/Nickolausen)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Ludovico-Spitaleri)](https://github.com/lspita)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Elettra-Ventura)](https://github.com/Elettraa)
+
+
 
 ## 📫 Let's Connect!
 
