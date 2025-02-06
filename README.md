@@ -43,14 +43,11 @@ A game developed for the OOP exam ([University of Bologna](https://corsi.unibo.i
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/4realgames/OOP24-arcaym)
 
-> Made in collaboration with:
-<br>
+> Featuring:
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Ludovico-Spitaleri)](https://github.com/lspita)
-<br>
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Nicholas-Magi)](https://github.com/Nickolausen)
-<br>
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Elettra-Ventura)](https://github.com/Elettraa)
 
