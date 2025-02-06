@@ -24,22 +24,23 @@ I've had a couple of jobs as a software developer
 # 📚 Projects
 Here are some of the projects I’ve worked on:
 
-### Con Nome
+### Con Nome 🏌️
 A little game made for the [MMA-2023](https://www.dm.unibo.it/pls/metodi-matematici-per-l-animazione-2023/).
 - 🥉 3rd Place
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/MMA-2023)
 
 ---
-### Auto Ercole
+### Auto Ercole 🧩
 A project made in collaboration with [Arakne Srl](https://www.arakne.it/en/home) consisting in the developement of an application to reassemble fragments of ancient frescoes
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/ProgettoErcole)
 
 ---
-### Architect of Mayhem
-A game developed for the OOP exam. 🕹️
+### Architect of Mayhem 🕹️
+A game developed for the OOP exam ([University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)). 
 - Developed as part of the Object-Oriented Programming course.
+
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/4realgames/OOP24-arcaym)
 
 > Made in collaboration with:
