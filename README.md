@@ -31,7 +31,7 @@ A little game made for the [MMA-2023](https://www.dm.unibo.it/pls/metodi-matemat
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/MMA-2023)
 
 ---
-### Auto Ercole 🧩
+### Progetto Ercole 🧩
 A project made in collaboration with [Arakne Srl](https://www.arakne.it/en/home) consisting in the developement of an application to reassemble fragments of ancient frescoes
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wisetreeam/ProgettoErcole)
