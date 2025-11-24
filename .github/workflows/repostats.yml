@@ -28,7 +28,6 @@ jobs:
           plugin_languages_ignored: >-
             powershell
           plugin_languages_details: percentage, byte-size
-          plugin_languages_indepth_custom: the-real-deal/unicook, the-real-deal/unibo-iot-electronic-transistor, the-real-deal/columbus-trips
           plugin_languages_limit: 8
       - name: 'user'
         uses: lowlighter/metrics@latest
