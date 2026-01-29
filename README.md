@@ -38,7 +38,7 @@ A project made in collaboration with [Arakne Srl](https://www.arakne.it/en/home)
 
 ---
 ### Architect of Mayhem 🕹️
-A game developed for the OOP exam ([University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)). 
+A game developed as part of the OOP exam ([University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)). 
 - Developed as part of the Object-Oriented Programming course.
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/4realgames/OOP24-arcaym)
@@ -51,7 +51,18 @@ A game developed for the OOP exam ([University of Bologna](https://corsi.unibo.i
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Elettra-Ventura)](https://github.com/Elettraa)
 
+---
+### Unicook :stew:
+A website developed as part of the web technologies exam ([University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)). 
+- Developed as part of the Object-Oriented Programming course.
 
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/the-real-deal/unicook)
+
+> Featuring:
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Ludovico-Spitaleri)](https://github.com/lspita)
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&label=Matteo-Tonelli)](https://github.com/MatteoTonelli05)
 
 ## 📫 Let's Connect!
 
